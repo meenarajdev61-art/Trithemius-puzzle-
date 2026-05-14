@@ -4,13 +4,7 @@ Welcome to the Trithemius Puzzle repository!
 
 ## Overview
 
-This project explores the historical Trithemius cipher and related cryptographic puzzles. The Trithemius cipher is a polyalphabetic substitution cipher that uses a series of Caesar shifts with increasing offsets.
-
-## Features
-
-- Implementation of the Trithemius cipher
-- Puzzle solving utilities
-- Educational resources on classical cryptography
+This project Trithemius cipher and related cryptographic puzzles
 
 ## Getting Started
 
@@ -39,12 +33,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 [Add your license information here]
-
-## Resources
-
-- [Trithemius Cipher - Wikipedia](https://en.wikipedia.org/wiki/Polyalphabetic_cipher)
-- [Classical Cryptography](https://en.wikipedia.org/wiki/Classical_cipher)
-
----
-
-**Last updated:** 2026-05-14
